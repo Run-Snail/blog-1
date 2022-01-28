@@ -1,3 +1,9 @@
+<!-- v0.4.0 -->
+# 使用redis来存放session，redis版本：2.8.0
+
+<!-- v0.3.3 -->
+# 添加cookie和session功能，此时session存储在nodejs内存中
+
 
 <!-- v0.3.2 -->
 # 将接口假数据全部改为从数据库获取的真实数据
